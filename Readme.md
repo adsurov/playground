@@ -14,11 +14,11 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coding-interview-playground.git
+   git clone https://github.com/adsurov/playground.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd coding-interview-playground
+   cd playground
    ```
 3. Install dependencies (ensure you have the most recent LTS version of Node.js):
    ```bash
