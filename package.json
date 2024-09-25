@@ -4,8 +4,11 @@
   "description": "basic playground for coding interview",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "test": "vitest"
   },
   "author": "Andrei Surov",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "vitest": "^2.1.1"
+  }
 }
