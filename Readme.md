@@ -4,15 +4,10 @@
 This repository serves as a playground for coding interview preparation.
 
 ## Table of Contents
-- [Features](#features)
 - [Getting Started](#getting-started)
 - [Challenges](#challenges)
 - [Running Tests](#running-tests)
 
-## Features
-- A variety of coding challenges across different topics
-- Solutions and explanations for each challenge
-- Resources for interview preparation
 
 ## Getting Started
 To get started with this project, follow these steps:
@@ -67,5 +62,5 @@ Make sure you installed dependencies in before running these commands (see [Gett
 
 
 ## Kudos
-This project was inspired by [Anna Harbour's JavaScript Coding Interview Exercises](https://github.com/annaharbour/js-coding-interview-exercises). Please check out her repository for more challenges and resources.
+This project was inspired by [Anna Harbour's JavaScript Coding Interview Exercises](https://github.com/annaharbour/js-coding-interview-exercises). Her repository contains a collection of JavaScript challenges designed to help prepare for coding interviews. Please check out her repository for more challenges and resources.
 
